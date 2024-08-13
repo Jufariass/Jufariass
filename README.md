@@ -1,5 +1,12 @@
 ## Bem-vindo(a) ao perfil de Julia 😁
 
+#
+
+<p align="center">Desenvolvimento em Front-end.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+  
+#
+
  <div>
    <a href="https://github.com/Jufariass">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jufariass&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -7,6 +14,8 @@
 </div>
     
 <div style="display: inline_block"><br>
+
+ <h3 align="left">Connect with me!</h3>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
