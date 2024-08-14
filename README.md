@@ -13,7 +13,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <div>
    <a href="https://github.com/Jufariass">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jufariass&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jufariass&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jufariass&layout=compact&langs_count=6&theme=dracula"/>
 </div>
     
