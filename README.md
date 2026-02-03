@@ -1,8 +1,8 @@
 # 👋 Olá! Me chamo Julia Araújo Farias
 
-Desenvolvedora Frontend em formação | HTML | CSS | JavaScript | React | Node.js
+Desenvolvedora FullStack em formação | Suporte técnico em sistemas | HTML | CSS | JavaScript | React | Node.js
 
-Desenvolvedora Frontend apaixonada por criar interfaces incríveis e experiências de usuário memoráveis.
+Desenvolvedora FullStack apaixonada por criar interfaces incríveis e experiências de usuário memoráveis.
 
 ---
 
