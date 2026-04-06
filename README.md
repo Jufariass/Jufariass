@@ -39,9 +39,9 @@ Desenvolvedora FullStack apaixonada por criar interfaces incríveis e experiênc
 
 ## 🛠️ Projetos 
 
-### [Mini E-commerce](https://github.com/Jufariass/uncode-mini-ecommerce)
-O projeto foi desenvolvido como parte do desafio técnico de Frontend, com o objetivo de demonstrar organização de código, boas práticas em React e TypeScript, além de um deploy público funcional.
-🛠️ React, TypeScript, Vite
+### [Projeto Mini-ecommerce](https://github.com/Jufariass/uncode-mini-ecommerce)  
+Projeto feito com o objetivo de ser um ecommerce funcional, com design estilizado em React, Typescript.  
+🛠️ HTML, CSS, React, Typescript, Vite
 
 ### [Projeto Batman](https://github.com/Jufariass/projetobatman)  
 Interface inspirada no universo Batman, com design estilizado em HTML e CSS.  
