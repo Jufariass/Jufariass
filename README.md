@@ -45,7 +45,7 @@ Interface inspirada no universo Batman, com design estilizado em HTML e CSS.
 
 ### [Star Wars Characters](https://github.com/Jufariass/Star-Wars-Characters)  
 Página apresentando personagens de Star Wars, feita com HTML e CSS.  
-🛠️ HTML, CSS, JAVASCRIPT, API REST
+🛠️ HTML, CSS, Javascript, API REST
 
 ### [Calculadora de IMC](https://github.com/Jufariass/Calculadora-IMC)  
 Calculadora de IMC desenvolvida com HTML, CSS e JavaScript para praticar lógica e interatividade.  
